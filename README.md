@@ -9,7 +9,7 @@ Vue.user(Viser)
 非必要不建议使用。
 简单的热力图echarts可以通过visualMap实现
 
-关键配置
+echarts中关键配置
 ```javascript
 visualMap: {
     calculable: true,
